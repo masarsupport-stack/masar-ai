@@ -1,4 +1,4 @@
-# Welcome to OnSpace AI
+# Welcome to masar AI
 ## Getting Started
 
 ### 1. Install Dependencies
@@ -70,4 +70,5 @@ This project is private ("private": true). For collaboration inquiries, please c
 ---
 
 Feel free to add project screenshots, API documentation, feature descriptions, or any other information as needed.
+
 
